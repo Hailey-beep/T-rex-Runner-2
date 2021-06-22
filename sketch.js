@@ -69,7 +69,7 @@ function setup() {
 }
 
 function draw() {
-  trex.debug = true;
+  //trex.debug = true;
 
   background("lightblue");
   text("Score: "+ score, camera.x + 200,displayHeight/75);
